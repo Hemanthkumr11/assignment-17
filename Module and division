@@ -1,0 +1,6 @@
+a= int(inpu("enter the value of a"))
+b= int(inpu("enter the value of b"))
+Print(a/b)
+print(a//b)
+
+
